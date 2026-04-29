@@ -1,5 +1,10 @@
-## Hi there 👋
 
+<head>
+  <div align="center">
+    <h2>Hi there! My Name is MR BUS!<img src = <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="25" height="25" /></h2>
+    <hr>
+  </div>
+</head>
 <!--
 **Mr-Bus/Mr-Bus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
