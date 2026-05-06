@@ -8,7 +8,10 @@
 
 <body>
   <div align="Center">
-    <p>What Im Currently Working on!?<img width="25" height="25" alt="Down Arrow" src="https://github.com/user-attachments/assets/3e5a4eb6-659b-417b-a2ad-06e14cf182dc" ></p>
+    <p>My read me is going to be a bit empty for the time being :/
+      <br>
+      <br>
+    <img width="240" height="158" alt="Bored Cabin Fever GIF" src="https://github.com/user-attachments/assets/cf0057d1-8fa4-4df5-98d3-c0f4004369b1" /></p>
 
   </div>
 </body>
